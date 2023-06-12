@@ -35,5 +35,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 The sign-up form design and code are based on tutorials and examples found online.
-
-That's it! You can use this README file as a starting point and add more details or sections as needed for your project.
